@@ -1,9 +1,13 @@
 _repo: The-Airship-Boys-Ocean-Flyer-New-York-to-London-in-Twelve-Hours_49416
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Riesenberg, S. H.
     gutenberg_agent_id: '45328'
     url: http://www.gutenberg.org/2009/agents/45328
+covers:
+- cover_type: archival
+  image_path: 49416-h/images/cover.jpg
 creator:
   author:
     agent_name: Sayler, H. L. (Harry Lincoln)
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '2246'
     url: http://www.gutenberg.org/2009/agents/2246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49416#The-Airship-Boys-Ocean-Flyer-New-York-to-London-in-Twelve-Hours
 gutenberg_issued: '2015-07-11'
 gutenberg_type: Text
 identifiers:
